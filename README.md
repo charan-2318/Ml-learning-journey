@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Zero to Mastery Machine Learning
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrdbourke/zero-to-mastery-ml/master)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrdbourke/zero-to-mastery-ml/blob/master)
@@ -59,3 +60,7 @@ If you'd like to submit yours, leave a pull request.
 
 1. Chester's notes - https://github.com/chesterheng/machinelearning-datascience
 2. Sophia's notes - https://www.rockyourcode.com/tags/udemy-complete-machine-learning-and-data-science-zero-to-mastery/
+=======
+# Ml-learning-journey
+My journey learning machine learning with projects and notes
+>>>>>>> 559970223458667f0f6eae97ca4180d287f83189
